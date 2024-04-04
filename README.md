@@ -1,6 +1,7 @@
 ## [![云盘签到](https://github.com/y377/189pan/actions/workflows/main.yml/badge.svg)](https://github.com/y377/189pan/actions/workflows/main.yml) 189pan 
 
-###### 本项目fork自[Cloud189_Action](https://github.com/qsf728999746/Cloud189_Action)（在此感谢）并修复和改进以下内容：
+###### 本仓库fork自[Cloud189_Action](https://github.com/qsf728999746/Cloud189_Action)（在此感谢）并修复和改进以下内容：
+> *为学习GitHub用，任何fork本仓库产生的任何风险请自行承担！*
 
 1. 每天两次签到，当第一次签到时，未正常显示“抽奖获得的容量数”，原代码仅显示“抽奖获得1” 修复状态：✅
 
