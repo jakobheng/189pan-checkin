@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [master]
   schedule:
-    - cron: '30 5,17 * * *'
+    - cron: '0 2 * * *'
   workflow_dispatch:
   watch:
     types: started
@@ -20,7 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: 打印ip地址
-        run: echo "My IP address is $(curl -s ifconfig.me)"
+        run: echo "ip地址是 $(curl -s ifconfig.me)"
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
         with:
