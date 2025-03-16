@@ -1,25 +1,4 @@
-- 签到时间 2025-03-15 16:47:18 [![签到状态](https://github.com/jakobheng/189pan-checkin/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/jakobheng/189pan-checkin/actions/workflows/main.yml)
+- 签到时间 2025-03-16 16:46:47 [![签到状态](https://github.com/jakobheng/189pan-checkin/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/jakobheng/189pan-checkin/actions/workflows/main.yml)
 - 开始执行帐号1
 - 登录成功
-- 已经签到过了，签到获得57M空间
-- 第1抽奖成功：获得天翼云盘50M空间
-- 第2抽奖失败，可能是次数不足了
-- 第3抽奖失败，可能是次数不足了
-- 开始执行帐号2
-- 登录成功
-- 已经签到过了，签到获得76M空间
-- 第1抽奖成功：获得天翼云盘50M空间
-- 第2抽奖失败，可能是次数不足了
-- 第3抽奖失败，可能是次数不足了
-- 开始执行帐号3
-- 登录成功
-- 已经签到过了，签到获得89M空间
-- 第1抽奖成功：获得天翼云盘50M空间
-- 第2抽奖失败，可能是次数不足了
-- 第3抽奖失败，可能是次数不足了
-- 开始执行帐号4
-- 登录成功
-- 已经签到过了，签到获得87M空间
-- 第1抽奖成功：获得天翼云盘50M空间
-- 第2抽奖失败，可能是次数不足了
-- 第3抽奖失败，可能是次数不足了
+- 已经签到过了，签到获得44M空间
