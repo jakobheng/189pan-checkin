@@ -1,2 +1,3 @@
-- 签到时间 2026-02-03 17:21:27 [![签到状态](https://github.com/jakobheng/189pan-checkin/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/jakobheng/189pan-checkin/actions/workflows/main.yml)
+- 签到时间 2026-02-04 17:24:31 [![签到状态](https://github.com/jakobheng/189pan-checkin/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/jakobheng/189pan-checkin/actions/workflows/main.yml)
 - 开始执行帐号1
+- 设备ID不存在，需要二次设备校验
